@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1A --group-directories-first | tr '\n' ',' | sed 's/,$/\n/'
+ls -la -m -p
