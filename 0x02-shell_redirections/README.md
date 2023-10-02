@@ -49,4 +49,6 @@ Requirements:
 # Task 15
  - A script that displays the number of lines that contain the pattern “bin” in the file /etc/passwd
 # Task 16 
- - A script that 
+ - A script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+# Task 17
+ - A script that  
