@@ -63,4 +63,9 @@ Requirements:
 # Task 21 
  - A script that  reverses its input
 # TAsk 21 
- - A script that 
+ - A script that displays all users and their home directories, sorted by users.
+
+    Based on the the /etc/passwd file
+# ADVANCED TASKS #
+# Task 22
+- A script that  
