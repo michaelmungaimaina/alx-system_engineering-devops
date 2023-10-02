@@ -61,4 +61,6 @@ Requirements:
 # Task 20
  - A script that removes all letters c and C from input.
 # Task 21 
- - A script that     
+ - A script that  reverses its input
+# TAsk 21 
+ - A script that 
