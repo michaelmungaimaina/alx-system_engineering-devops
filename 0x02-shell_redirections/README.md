@@ -53,4 +53,8 @@ Requirements:
 # Task 17
  - A script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 # Task 18
- - Ascript that  
+ - Ascript that displays all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+    include capital letters as well
+# Task 19 
+ - A script that   
