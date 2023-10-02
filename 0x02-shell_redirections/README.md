@@ -51,4 +51,6 @@ Requirements:
 # Task 16 
  - A script that displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 # Task 17
- - A script that  
+ - A script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+# Task 18
+ - Ascript that  
