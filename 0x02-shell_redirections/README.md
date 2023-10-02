@@ -45,4 +45,6 @@ Requirements:
     Output format: One line, one word
     Words should be sorted
 # Task 14
- - A script that       
+ - A script that displays lines containing the pattern “root” from the file /etc/passwd
+# Task 15
+ - A script that 
