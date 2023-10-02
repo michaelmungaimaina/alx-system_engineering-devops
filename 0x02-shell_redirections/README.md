@@ -57,4 +57,6 @@ Requirements:
 
     include capital letters as well
 # Task 19 
- - A script that   
+ - A script that replaces all characters A and c from input to Z and e respectively.
+# Task 20
+ - A script that    
