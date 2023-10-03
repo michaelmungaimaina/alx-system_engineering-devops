@@ -42,5 +42,7 @@
               Number in base 10 is stored in the environment variable DECIMAL
               Scrip displays the number in base 16, followed by a new line.
 # Task 15
- - A script that encodes and decods text using the rot13 encryption. It assumes ASCII. 
+ - A script that encodes and decods text using the rot13 encryption. It assumes ASCII.
+# Task 16
+ - A script that prints every other line from the input, startint with the first line  
  
