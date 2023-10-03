@@ -5,4 +5,6 @@
 # Task 2
  - A script that adds "/action" to the PATH./action. It should be the last directory the shell looks into when looking for a program
 # Task 3
- - A script that counts the number of dirctories in the PATH 
+ - A script that counts the number of dirctories in the PATH
+# Task 4
+ - A script that lists environment variables  
