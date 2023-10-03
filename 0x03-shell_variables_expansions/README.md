@@ -44,5 +44,10 @@
 # Task 15
  - A script that encodes and decods text using the rot13 encryption. It assumes ASCII.
 # Task 16
- - A script that prints every other line from the input, startint with the first line  
+ - A script that prints every other line from the input, startint with the first line
+# Task 17
+ - A script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+             WATER is in base 'water'
+             STIR is in base'stir'
+             The result is in base 'bestchol'   
  
