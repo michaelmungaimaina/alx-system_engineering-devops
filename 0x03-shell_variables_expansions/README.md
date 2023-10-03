@@ -26,4 +26,12 @@
 # Task 11
  - A script that converts a number from base 2 to base 10
                The number in base 2 is stored in the environment variable BINARY
-               The script displays the numberin base 10, followed by  new line 
+               The script displays the numberin base 10, followed by  new line
+# Task 12
+ - A script that prints all possible combinations of two letters, except "oo"
+               Letters are lower cases, from "a" to "z"
+               One combination per line
+               Output is alpha ordered, starting with "aa"
+               Does not print "oo"
+               The script contains a maximum of 64 characters
+ 
