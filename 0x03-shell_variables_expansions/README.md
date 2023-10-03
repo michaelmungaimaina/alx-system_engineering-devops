@@ -11,4 +11,6 @@
 # Task 5
  - A script that lists all local variables and environment variables, and functions
 # Task 6
- - A script that creates a new local variable > Name: "BEST", Value: "School"    
+ - A script that creates a new local variable > Name: "BEST", Value: "School" 
+# Task 7
+ - A script that creates a new global variable > Name: BEST, Value: "School" 
