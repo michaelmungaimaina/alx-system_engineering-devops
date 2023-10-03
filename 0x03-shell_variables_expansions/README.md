@@ -34,4 +34,7 @@
                Output is alpha ordered, starting with "aa"
                Does not print "oo"
                The script contains a maximum of 64 characters
+# Task 13
+ - A script that prints a number with two decimal places, followed by a new line.
+              The number will be stored in the environment variable NUM
  
