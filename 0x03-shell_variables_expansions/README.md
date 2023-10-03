@@ -40,5 +40,7 @@
 # Task 14
  - A script that converts a number from base 10 to base 16.
               Number in base 10 is stored in the environment variable DECIMAL
-              Scrip displays the number in base 16, followed by a new line. 
+              Scrip displays the number in base 16, followed by a new line.
+# Task 15
+ - A script that encodes and decods text using the rot13 encryption. It assumes ASCII. 
  
