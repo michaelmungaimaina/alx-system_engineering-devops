@@ -7,4 +7,6 @@
 # Task 3
  - A script that counts the number of dirctories in the PATH
 # Task 4
- - A script that lists environment variables  
+ - A script that lists environment variables
+# Task 5
+ - A script that lists all local variables and environment variables, and functions   
